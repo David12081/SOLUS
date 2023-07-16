@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 52db5485428444a4bab820e59665bdea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3524334422407840744
+    second: AjoloteEnemAnimacionCorre_0
+  - first:
+      213: -9115695587873231180
+    second: AjoloteEnemAnimacionCorre_1
+  - first:
+      213: -5253534455810498977
+    second: AjoloteEnemAnimacionCorre_2
+  - first:
+      213: -3300117519907638396
+    second: AjoloteEnemAnimacionCorre_3
+  - first:
+      213: 2468635053360411542
+    second: AjoloteEnemAnimacionCorre_4
+  - first:
+      213: -6635969768411451106
+    second: AjoloteEnemAnimacionCorre_5
+  - first:
+      213: -4485568915317273267
+    second: AjoloteEnemAnimacionCorre_6
+  - first:
+      213: -3142632289981883074
+    second: AjoloteEnemAnimacionCorre_7
+  - first:
+      213: -6756616085562956399
+    second: AjoloteEnemAnimacionCorre_8
+  - first:
+      213: 1500924384609097426
+    second: AjoloteEnemAnimacionCorre_9
+  - first:
+      213: -9069213851302123051
+    second: AjoloteEnemAnimacionCorre_10
+  - first:
+      213: 3291791970439226505
+    second: AjoloteEnemAnimacionCorre_11
+  - first:
+      213: 8201104550885261593
+    second: AjoloteEnemAnimacionCorre_12
+  - first:
+      213: -6435121167541218929
+    second: AjoloteEnemAnimacionCorre_13
+  - first:
+      213: -8619583632445083047
+    second: AjoloteEnemAnimacionCorre_14
+  - first:
+      213: -3753981083555789821
+    second: AjoloteEnemAnimacionCorre_15
+  - first:
+      213: 7289747945797455473
+    second: AjoloteEnemAnimacionCorre_16
+  - first:
+      213: 643279618762957902
+    second: AjoloteEnemAnimacionCorre_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.45082217, y: 0.4328195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf2baf38c071fc0800000000000000
+      internalID: -3524334422407840744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_1
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2240
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.4385278, y: 0.42162302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be683ce82b8e7180800000000000000
+      internalID: -9115695587873231180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_2
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2240
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.4200861, y: 0.4104261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ed3223f32b717b0800000000000000
+      internalID: -5253534455810498977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_3
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2240
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.48155805, y: 0.45521283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483bcd4b990a332d0800000000000000
+      internalID: -3300117519907638396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.4815583, y: 0.46640974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ff9b608a524220800000000000000
+      internalID: 2468635053360411542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1680
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5122944, y: 0.45521307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ba9d87ac48e3a0800000000000000
+      internalID: -6635969768411451106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1680
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.524589, y: 0.47760642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dcafa46de00c1c0800000000000000
+      internalID: -4485568915317273267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_7
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1680
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.46926364, y: 0.45521307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d15f725902364d0800000000000000
+      internalID: -3142632289981883074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.46926382, y: 0.52239335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956450e77dab32a0800000000000000
+      internalID: -6756616085562956399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1120
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.59835565, y: 0.45521262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d85b86ca54d410800000000000000
+      internalID: 1500924384609097426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_10
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1120
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.55532515, y: 0.46640974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9a5119d0ea32280800000000000000
+      internalID: -9069213851302123051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_11
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1120
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.53073585, y: 0.4104259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98463804b5bcead20800000000000000
+      internalID: 3291791970439226505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.6598278, y: 0.45521283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9110b51432d20d170800000000000000
+      internalID: 8201104550885261593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 560
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.62909174, y: 0.46640953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81db12946bd1b6a0800000000000000
+      internalID: -6435121167541218929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 560
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.6229444, y: 0.43281937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952f654da56116880800000000000000
+      internalID: -8619583632445083047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_15
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 560
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.56761926, y: 0.43281937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3040f1d081e27ebc0800000000000000
+      internalID: -3753981083555789821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.60450286, y: 0.43281955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e046b42236a2560800000000000000
+      internalID: 7289747945797455473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionCorre_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 1020
+        height: 560
+      alignment: 9
+      pivot: {x: 0.56761956, y: 0.5223934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e446d9fa7636de800800000000000000
+      internalID: 643279618762957902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

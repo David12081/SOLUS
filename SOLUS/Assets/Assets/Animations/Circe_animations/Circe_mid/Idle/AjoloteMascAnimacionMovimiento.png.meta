@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: caf47e6330cf4244f9f428fcb49c1222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2926513183870532404
+    second: AjoloteMascAnimacionMovimiento_0
+  - first:
+      213: 1819724392273876160
+    second: AjoloteMascAnimacionMovimiento_1
+  - first:
+      213: -209673286729885840
+    second: AjoloteMascAnimacionMovimiento_2
+  - first:
+      213: -1242591760841525159
+    second: AjoloteMascAnimacionMovimiento_3
+  - first:
+      213: 2015702779901511955
+    second: AjoloteMascAnimacionMovimiento_4
+  - first:
+      213: -8433573034498769157
+    second: AjoloteMascAnimacionMovimiento_5
+  - first:
+      213: 608421337690304346
+    second: AjoloteMascAnimacionMovimiento_6
+  - first:
+      213: -1383426827953427995
+    second: AjoloteMascAnimacionMovimiento_7
+  - first:
+      213: -5698419999995101118
+    second: AjoloteMascAnimacionMovimiento_8
+  - first:
+      213: -9029963891173084438
+    second: AjoloteMascAnimacionMovimiento_9
+  - first:
+      213: -1852863464845252628
+    second: AjoloteMascAnimacionMovimiento_10
+  - first:
+      213: -4638582448541104863
+    second: AjoloteMascAnimacionMovimiento_11
+  - first:
+      213: -6849942902531731017
+    second: AjoloteMascAnimacionMovimiento_12
+  - first:
+      213: 5661609409598932240
+    second: AjoloteMascAnimacionMovimiento_13
+  - first:
+      213: 4754563623538809234
+    second: AjoloteMascAnimacionMovimiento_14
+  - first:
+      213: -398160884675094196
+    second: AjoloteMascAnimacionMovimiento_15
+  - first:
+      213: -4849235579128788700
+    second: AjoloteMascAnimacionMovimiento_16
+  - first:
+      213: 9089782197299427558
+    second: AjoloteMascAnimacionMovimiento_17
+  - first:
+      213: -5630795570514741705
+    second: AjoloteMascAnimacionMovimiento_18
+  - first:
+      213: 1483069921224352986
+    second: AjoloteMascAnimacionMovimiento_19
+  - first:
+      213: -3578640814057458981
+    second: AjoloteMascAnimacionMovimiento_20
+  - first:
+      213: 7069282126819243716
+    second: AjoloteMascAnimacionMovimiento_21
+  - first:
+      213: -8248421239743635605
+    second: AjoloteMascAnimacionMovimiento_22
+  - first:
+      213: 2983558307251783416
+    second: AjoloteMascAnimacionMovimiento_23
+  - first:
+      213: 4248930056726467385
+    second: AjoloteMascAnimacionMovimiento_24
+  - first:
+      213: 5941937464468414385
+    second: AjoloteMascAnimacionMovimiento_25
+  - first:
+      213: 8581943299148450382
+    second: AjoloteMascAnimacionMovimiento_26
+  - first:
+      213: 6673531920027127556
+    second: AjoloteMascAnimacionMovimiento_27
+  - first:
+      213: -9021205507482056406
+    second: AjoloteMascAnimacionMovimiento_28
+  - first:
+      213: -4090861849897685216
+    second: AjoloteMascAnimacionMovimiento_29
+  - first:
+      213: 8617041800763204529
+    second: AjoloteMascAnimacionMovimiento_30
+  - first:
+      213: -237324497922729212
+    second: AjoloteMascAnimacionMovimiento_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc446ecb3cfe267d0800000000000000
+      internalID: -2926513183870532404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1020
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4199681b5f04910800000000000000
+      internalID: 1819724392273876160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1020
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0779391b147171df0800000000000000
+      internalID: -209673286729885840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1020
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b636806d61cee0800000000000000
+      internalID: -1242591760841525159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1020
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3190cc8aff639fb10800000000000000
+      internalID: 2015702779901511955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1020
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe3363120ee5fa80800000000000000
+      internalID: -8433573034498769157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_6
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1020
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6ccaabfb817800800000000000000
+      internalID: 608421337690304346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_7
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1020
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9271331a41dcce0800000000000000
+      internalID: -1383426827953427995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408f4793352be0b0800000000000000
+      internalID: -5698419999995101118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 680
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2360c0faf1fa280800000000000000
+      internalID: -9029963891173084438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 680
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76990ee7e4946e0800000000000000
+      internalID: -1852863464845252628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 680
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125885dd6d170afb0800000000000000
+      internalID: -4638582448541104863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_12
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 680
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b153e2093d10f0a0800000000000000
+      internalID: -6849942902531731017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 680
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0154724f2c3129e40800000000000000
+      internalID: 5661609409598932240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_14
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 680
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2995603cc6a9bf140800000000000000
+      internalID: 4754563623538809234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_15
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 680
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c495c71f8c2797af0800000000000000
+      internalID: -398160884675094196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c7d1eeed04bcb0800000000000000
+      internalID: -4849235579128788700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 340
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b3bbafb4652e70800000000000000
+      internalID: 9089782197299427558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 340
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73630a803456bd1b0800000000000000
+      internalID: -5630795570514741705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 340
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4e4a75c3ce49410800000000000000
+      internalID: 1483069921224352986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_20
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 340
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f36bd32d165ec0800000000000000
+      internalID: -3578640814057458981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_21
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 340
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c63412c3a22b1260800000000000000
+      internalID: 7069282126819243716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_22
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 340
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f1b4f9598b78d80800000000000000
+      internalID: -8248421239743635605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_23
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 340
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6886e097ab76920800000000000000
+      internalID: 2983558307251783416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93359a2ff5b37fa30800000000000000
+      internalID: 4248930056726467385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf993764a0067250800000000000000
+      internalID: 5941937464468414385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a894426ff291770800000000000000
+      internalID: 8581943299148450382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f82726ce52d9c50800000000000000
+      internalID: 6673531920027127556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_28
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290cb8236d3ec280800000000000000
+      internalID: -9021205507482056406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fa6a362d65a37c0800000000000000
+      internalID: -4090861849897685216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_30
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ee2ddcd1e59770800000000000000
+      internalID: 8617041800763204529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteMascAnimacionMovimiento_31
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b51d460aad4bcf0800000000000000
+      internalID: -237324497922729212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2c407024b2fd8f944a29a766f76b600a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

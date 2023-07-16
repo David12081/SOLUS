@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: f77544725dc6da14286487d26ca4033e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -130318665054063700
+    second: AtaqueAjoloteMascIzq_0
+  - first:
+      213: 441049294879896233
+    second: AtaqueAjoloteMascIzq_1
+  - first:
+      213: 4974594724877157138
+    second: AtaqueAjoloteMascIzq_2
+  - first:
+      213: 2474143553215870561
+    second: AtaqueAjoloteMascIzq_3
+  - first:
+      213: -3712969486176768334
+    second: AtaqueAjoloteMascIzq_4
+  - first:
+      213: -8289928919409715627
+    second: AtaqueAjoloteMascIzq_5
+  - first:
+      213: 3865545172549754024
+    second: AtaqueAjoloteMascIzq_6
+  - first:
+      213: -5076342011480690821
+    second: AtaqueAjoloteMascIzq_7
+  - first:
+      213: 3220783833471843050
+    second: AtaqueAjoloteMascIzq_8
+  - first:
+      213: 5624213268071228703
+    second: AtaqueAjoloteMascIzq_9
+  - first:
+      213: -1696840635719567747
+    second: AtaqueAjoloteMascIzq_10
+  - first:
+      213: 8538769351331388261
+    second: AtaqueAjoloteMascIzq_11
+  - first:
+      213: -1615397913995255498
+    second: AtaqueAjoloteMascIzq_12
+  - first:
+      213: 8913585758944480467
+    second: AtaqueAjoloteMascIzq_13
+  - first:
+      213: -3563145745083277612
+    second: AtaqueAjoloteMascIzq_14
+  - first:
+      213: -2556644588165513595
+    second: AtaqueAjoloteMascIzq_15
+  - first:
+      213: 1557593116811730014
+    second: AtaqueAjoloteMascIzq_16
+  - first:
+      213: 2755986993883946581
+    second: AtaqueAjoloteMascIzq_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca379d55dd3013ef0800000000000000
+      internalID: -130318665054063700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_1
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1500
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b0c53ffbee1600800000000000000
+      internalID: 441049294879896233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_2
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1500
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c5d5bb8f490540800000000000000
+      internalID: 4974594724877157138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_3
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1500
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16631ccf37ce55220800000000000000
+      internalID: 2474143553215870561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_4
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1500
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea19aace1e87cc0800000000000000
+      internalID: -3712969486176768334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_5
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 1500
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5569859d19144fc80800000000000000
+      internalID: -8289928919409715627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acdd099adc25a530800000000000000
+      internalID: 3865545172549754024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_7
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 750
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2d4f06d53d89b0800000000000000
+      internalID: -5076342011480690821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_8
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 750
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaf86405d582bc20800000000000000
+      internalID: 3220783833471843050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_9
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 750
+        width: 1018
+        height: 750
+      alignment: 9
+      pivot: {x: 0.7563851, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15ac604b283d0e40800000000000000
+      internalID: 5624213268071228703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_10
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 750
+        width: 1017
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75712883, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76bc7b9e6c9378e0800000000000000
+      internalID: -1696840635719567747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_11
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 750
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b99151c7dcf7670800000000000000
+      internalID: 8538769351331388261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e76de724f499e0800000000000000
+      internalID: -1615397913995255498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dccdd4850b63bb70800000000000000
+      internalID: 8913585758944480467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dedd5db2d92d8ec0800000000000000
+      internalID: -3563145745083277612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_15
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e3871fa49f48cd0800000000000000
+      internalID: -2556644588165513595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_16
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1820ffaead9510800000000000000
+      internalID: 1557593116811730014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueAjoloteMascIzq_17
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 0
+        width: 1020
+        height: 750
+      alignment: 9
+      pivot: {x: 0.75490195, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e9c00b19b3f3620800000000000000
+      internalID: 2755986993883946581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a4ed2d134a1c86b4b91b0bba5a750420
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

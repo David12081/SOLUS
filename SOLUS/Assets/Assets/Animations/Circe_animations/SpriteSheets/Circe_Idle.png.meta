@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 77907cc0d2cd5ae4aa05d72bf474e76b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -493891817859273490
+    second: Circe_Idle2_0
+  - first:
+      213: -8343752319039743446
+    second: Circe_Idle2_1
+  - first:
+      213: 4030671134973036144
+    second: Circe_Idle2_2
+  - first:
+      213: 5146815727936058675
+    second: Circe_Idle2_3
+  - first:
+      213: -3280960976413007735
+    second: Circe_Idle2_4
+  - first:
+      213: -7616161069963016566
+    second: Circe_Idle2_5
+  - first:
+      213: 4283316888331078111
+    second: Circe_Idle2_6
+  - first:
+      213: 3276992219377109895
+    second: Circe_Idle2_7
+  - first:
+      213: 5782901245413934962
+    second: Circe_Idle2_8
+  - first:
+      213: -997925271276559813
+    second: Circe_Idle2_9
+  - first:
+      213: 8523293123551077213
+    second: Circe_Idle2_10
+  - first:
+      213: -3928763181564840894
+    second: Circe_Idle2_11
+  - first:
+      213: 5625423239680469226
+    second: Circe_Idle2_12
+  - first:
+      213: 4428340899420403097
+    second: Circe_Idle2_13
+  - first:
+      213: 7940204239765888666
+    second: Circe_Idle2_14
+  - first:
+      213: 2558083205434428075
+    second: Circe_Idle2_15
+  - first:
+      213: -2002475725503527822
+    second: Circe_Idle2_16
+  - first:
+      213: -4972918756773973790
+    second: Circe_Idle2_17
+  - first:
+      213: 1886912698234143480
+    second: Circe_Idle2_18
+  - first:
+      213: -1682791581606337081
+    second: Circe_Idle2_19
+  - first:
+      213: -1702916550698558718
+    second: Circe_Idle2_20
+  - first:
+      213: 8339648606336044457
+    second: Circe_Idle2_21
+  - first:
+      213: -8291728884251904098
+    second: Circe_Idle2_22
+  - first:
+      213: 8019531995777853209
+    second: Circe_Idle2_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Circe_Idle2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeca60722085529f0800000000000000
+      internalID: -493891817859273490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2250
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a5bc11979053c80800000000000000
+      internalID: -8343752319039743446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2250
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0760d76ba02dfe730800000000000000
+      internalID: 4030671134973036144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2250
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335b504b2a92d6740800000000000000
+      internalID: 5146815727936058675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980ebfe006fa772d0800000000000000
+      internalID: -3280960976413007735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1800
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8602b8ebd5fd4690800000000000000
+      internalID: -7616161069963016566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1800
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c7651406617b30800000000000000
+      internalID: 4283316888331078111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1800
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b01bfaf073a7d20800000000000000
+      internalID: 3276992219377109895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277cf082b0ef04050800000000000000
+      internalID: 5782901245413934962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1350
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ec25c048a622f0800000000000000
+      internalID: -997925271276559813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1350
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53aac100f1d84670800000000000000
+      internalID: 8523293123551077213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1350
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244b13ca3ba3a79c0800000000000000
+      internalID: -3928763181564840894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8a168b1a4811e40800000000000000
+      internalID: 5625423239680469226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 900
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995794ee590a47d30800000000000000
+      internalID: 4428340899420403097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 900
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9edb43efa5413e60800000000000000
+      internalID: 7940204239765888666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 900
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baacfcd3f13208320800000000000000
+      internalID: 2558083205434428075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274050eefe6c534e0800000000000000
+      internalID: -2002475725503527822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 450
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03c950db4acfab0800000000000000
+      internalID: -4972918756773973790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 450
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f28b6c0a19af2a10800000000000000
+      internalID: 1886912698234143480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 450
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5265be8f585a8e0800000000000000
+      internalID: -1682791581606337081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9a796b660e58e0800000000000000
+      internalID: -1702916550698558718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcd3cd8326cb370800000000000000
+      internalID: 8339648606336044457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97b150e28cddec80800000000000000
+      internalID: -8291728884251904098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Idle2_23
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 260
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e7316cd91b4f60800000000000000
+      internalID: 8019531995777853209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d8249faeeee306d418d52ea72f8e362a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

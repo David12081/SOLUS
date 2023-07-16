@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 6a70b0abd3b816e439acf33663aa2a00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7896614828831856406
+    second: invocacion-Sheet_0
+  - first:
+      213: 5717844581937081611
+    second: invocacion-Sheet_1
+  - first:
+      213: -3158926524424685659
+    second: invocacion-Sheet_2
+  - first:
+      213: 7940064721416347180
+    second: invocacion-Sheet_3
+  - first:
+      213: -1107391106543175029
+    second: invocacion-Sheet_4
+  - first:
+      213: 5989398507637584369
+    second: invocacion-Sheet_5
+  - first:
+      213: -9184891339295470854
+    second: invocacion-Sheet_6
+  - first:
+      213: 8346721136575102711
+    second: invocacion-Sheet_7
+  - first:
+      213: -9074609081240613488
+    second: invocacion-Sheet_8
+  - first:
+      213: 5858659413556648567
+    second: invocacion-Sheet_9
+  - first:
+      213: -6658755631475854691
+    second: invocacion-Sheet_10
+  - first:
+      213: 2800362981860972860
+    second: invocacion-Sheet_11
+  - first:
+      213: 5448955086399091433
+    second: invocacion-Sheet_12
+  - first:
+      213: -5474794605020515598
+    second: invocacion-Sheet_13
+  - first:
+      213: 2190284688954606325
+    second: invocacion-Sheet_14
+  - first:
+      213: -6491681583278244479
+    second: invocacion-Sheet_15
+  - first:
+      213: -3176428030696160876
+    second: invocacion-Sheet_16
+  - first:
+      213: -6354386325951132823
+    second: invocacion-Sheet_17
+  - first:
+      213: 993634659434910833
+    second: invocacion-Sheet_18
+  - first:
+      213: -3608304689200444892
+    second: invocacion-Sheet_19
+  - first:
+      213: -4987745701819568247
+    second: invocacion-Sheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: invocacion-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82567b6a6996290800000000000000
+      internalID: -7896614828831856406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3360
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.48499998, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d60435a5dd95f40800000000000000
+      internalID: 5717844581937081611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3360
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.5014286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77b10101d3924d0800000000000000
+      internalID: -3158926524424685659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3360
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.51714283, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed1adbbc6c03e60800000000000000
+      internalID: 7940064721416347180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3360
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.5292857, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3113e7a1c1a0f0800000000000000
+      internalID: -1107391106543175029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.48357144, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f13ef1a53e9e1350800000000000000
+      internalID: 5989398507637584369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2520
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.49285713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa4bb49df5b88080800000000000000
+      internalID: -9184891339295470854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2520
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.505, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7febdc0a6a285d370800000000000000
+      internalID: 8346721136575102711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2520
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.5177381, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d8e15be13801280800000000000000
+      internalID: -9074609081240613488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2520
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.53000003, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ada0532b32e4150800000000000000
+      internalID: 5858659413556648567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.48071426, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92ffb368095793a0800000000000000
+      internalID: -6658755631475854691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1680
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391af78b43ecd620800000000000000
+      internalID: 2800362981860972860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.505, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e230e108c39e9b40800000000000000
+      internalID: 5448955086399091433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1680
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.5177381, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2f68d305f9504b0800000000000000
+      internalID: -5474794605020515598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1680
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.5297619, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2cd1ae154756e10800000000000000
+      internalID: 2190284688954606325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d31c19ef9e8e5a0800000000000000
+      internalID: -6491681583278244479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 840
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.49499997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49103c7198f0be3d0800000000000000
+      internalID: -3176428030696160876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 840
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.50857145, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4514bd4fa0d7a0800000000000000
+      internalID: -6354386325951132823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 840
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.51857144, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174522055791acd00800000000000000
+      internalID: 993634659434910833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 840
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.5296428, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ac4d6b00abcedc0800000000000000
+      internalID: -3608304689200444892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invocacion-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 840
+        height: 840
+      alignment: 9
+      pivot: {x: 0.48285714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f201dd5b7f7cab0800000000000000
+      internalID: -4987745701819568247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ac2ef33b07940b84ebd6a16445fc28df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

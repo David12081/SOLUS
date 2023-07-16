@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 163ccb8824c4ae142a75c13e990e97f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2962596538756211903
+    second: FrenteAjoAtaque_0
+  - first:
+      213: 8774551570403330270
+    second: FrenteAjoAtaque_1
+  - first:
+      213: 4676249720072027478
+    second: FrenteAjoAtaque_2
+  - first:
+      213: -2396338218098828648
+    second: FrenteAjoAtaque_3
+  - first:
+      213: -1674236484783870084
+    second: FrenteAjoAtaque_4
+  - first:
+      213: -8202929787663143579
+    second: FrenteAjoAtaque_5
+  - first:
+      213: -1098459234986685748
+    second: FrenteAjoAtaque_6
+  - first:
+      213: -4373255319269672875
+    second: FrenteAjoAtaque_7
+  - first:
+      213: 4769819614399959505
+    second: FrenteAjoAtaque_8
+  - first:
+      213: -4170811932175243851
+    second: FrenteAjoAtaque_9
+  - first:
+      213: 4491826474121585945
+    second: FrenteAjoAtaque_10
+  - first:
+      213: -189957817230774278
+    second: FrenteAjoAtaque_11
+  - first:
+      213: 2784510938573123067
+    second: FrenteAjoAtaque_12
+  - first:
+      213: 3163207341214633201
+    second: FrenteAjoAtaque_13
+  - first:
+      213: -5962258636274565690
+    second: FrenteAjoAtaque_14
+  - first:
+      213: 979466475026506842
+    second: FrenteAjoAtaque_15
+  - first:
+      213: 6038588569811773783
+    second: FrenteAjoAtaque_16
+  - first:
+      213: 7758876084539640497
+    second: FrenteAjoAtaque_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4ad510bd14d1920800000000000000
+      internalID: 2962596538756211903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_1
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1700
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed88c39e92875c970800000000000000
+      internalID: 8774551570403330270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_2
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1700
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db9e5385065e040800000000000000
+      internalID: 4676249720072027478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_3
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1700
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad684461f7ebed0800000000000000
+      internalID: -2396338218098828648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_4
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1700
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f657e99cae3c8e0800000000000000
+      internalID: -1674236484783870084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_5
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1700
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2ed0b1d6592e80800000000000000
+      internalID: -8202929787663143579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca0f5a452d71c0f0800000000000000
+      internalID: -1098459234986685748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 850
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558f7d625731f43c0800000000000000
+      internalID: -4373255319269672875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_8
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 850
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1100feaadc13240800000000000000
+      internalID: 4769819614399959505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_9
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 850
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5ebb545ac4e16c0800000000000000
+      internalID: -4170811932175243851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_10
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 850
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91566b6216c265e30800000000000000
+      internalID: 4491826474121585945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_11
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 850
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa6a52f522d5df0800000000000000
+      internalID: -189957817230774278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd27d612f194a620800000000000000
+      internalID: 2784510938573123067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc81044158f5eb20800000000000000
+      internalID: 3163207341214633201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_14
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd79d51c5dc14da0800000000000000
+      internalID: -5962258636274565690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_15
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 610
+        height: 850
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.67058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54eb51d193c79d00800000000000000
+      internalID: 979466475026506842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_16
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 0
+        width: 610
+        height: 848
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.6721698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7596d587f406dc350800000000000000
+      internalID: 6038588569811773783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrenteAjoAtaque_17
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 0
+        width: 610
+        height: 848
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.6721698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba424bc0b01dab60800000000000000
+      internalID: 7758876084539640497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11d7171340b37b8419ca998576956e54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

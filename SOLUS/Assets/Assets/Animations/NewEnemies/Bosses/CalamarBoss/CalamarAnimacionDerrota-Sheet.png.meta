@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 6cd54f085b957eb4796db95029f1a9b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7830359880197065315
+    second: Sprite_CalamarAnimacionDerrota-Sheet_0
+  - first:
+      213: 3166142051830417041
+    second: Sprite_CalamarAnimacionDerrota-Sheet_1
+  - first:
+      213: -3516570114543777878
+    second: Sprite_CalamarAnimacionDerrota-Sheet_2
+  - first:
+      213: 6245535384863785105
+    second: Sprite_CalamarAnimacionDerrota-Sheet_3
+  - first:
+      213: 8187817346644738686
+    second: Sprite_CalamarAnimacionDerrota-Sheet_4
+  - first:
+      213: 1241307703313446458
+    second: Sprite_CalamarAnimacionDerrota-Sheet_5
+  - first:
+      213: 8706174872097220299
+    second: Sprite_CalamarAnimacionDerrota-Sheet_6
+  - first:
+      213: 6670250478963253709
+    second: Sprite_CalamarAnimacionDerrota-Sheet_7
+  - first:
+      213: 7192070338508738222
+    second: Sprite_CalamarAnimacionDerrota-Sheet_8
+  - first:
+      213: -5141268236321219871
+    second: Sprite_CalamarAnimacionDerrota-Sheet_9
+  - first:
+      213: -1722519737238974370
+    second: Sprite_CalamarAnimacionDerrota-Sheet_10
+  - first:
+      213: -1750013712348202176
+    second: Sprite_CalamarAnimacionDerrota-Sheet_11
+  - first:
+      213: 7733189061358569940
+    second: Sprite_CalamarAnimacionDerrota-Sheet_12
+  - first:
+      213: 6063366294230559132
+    second: Sprite_CalamarAnimacionDerrota-Sheet_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 884
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95326d0d29f45390800000000000000
+      internalID: -7830359880197065315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 825
+        width: 879
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19647c3db6560fb20800000000000000
+      internalID: 3166142051830417041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 825
+        width: 879
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa70dd6cc12a23fc0800000000000000
+      internalID: -3516570114543777878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 815
+        width: 876
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19040fe97599ca650800000000000000
+      internalID: 6245535384863785105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 807
+        width: 880
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728a80fe78f0a170800000000000000
+      internalID: 8187817346644738686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 807
+        width: 879
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3634f887c20a3110800000000000000
+      internalID: 1241307703313446458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 807
+        width: 905
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc669cb3beb82d870800000000000000
+      internalID: 8706174872097220299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 905
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1eb79587d719c50800000000000000
+      internalID: 6670250478963253709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 909
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaecf6e1edd5fc360800000000000000
+      internalID: 7192070338508738222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 0
+        width: 910
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea131757cb86a8b0800000000000000
+      internalID: -5141268236321219871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 0
+        width: 906
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50954fdc616818e0800000000000000
+      internalID: -1722519737238974370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 0
+        width: 910
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b3c63fcc3b6b7e0800000000000000
+      internalID: -1750013712348202176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 0
+        width: 909
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c637aa7ec15b60800000000000000
+      internalID: 7733189061358569940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_CalamarAnimacionDerrota-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 0
+        width: 905
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9960bef487652450800000000000000
+      internalID: 6063366294230559132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 86332eb6616551844bada6a6b7e70281
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

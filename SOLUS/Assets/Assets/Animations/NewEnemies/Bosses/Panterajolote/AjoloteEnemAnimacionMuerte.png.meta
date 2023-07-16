@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 4560ba6d7bf527745985dcb02dcc89d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1586352925359421701
+    second: AjoloteEnemAnimacionMuerte_0
+  - first:
+      213: -6799057167143379566
+    second: AjoloteEnemAnimacionMuerte_1
+  - first:
+      213: -4678463254935644679
+    second: AjoloteEnemAnimacionMuerte_2
+  - first:
+      213: -4173455901982834410
+    second: AjoloteEnemAnimacionMuerte_3
+  - first:
+      213: 8868248559248202277
+    second: AjoloteEnemAnimacionMuerte_4
+  - first:
+      213: 201115584861566987
+    second: AjoloteEnemAnimacionMuerte_5
+  - first:
+      213: -3237231221564024947
+    second: AjoloteEnemAnimacionMuerte_6
+  - first:
+      213: -2825288169107391282
+    second: AjoloteEnemAnimacionMuerte_7
+  - first:
+      213: 5503709818491816613
+    second: AjoloteEnemAnimacionMuerte_8
+  - first:
+      213: 4271104962361970977
+    second: AjoloteEnemAnimacionMuerte_9
+  - first:
+      213: -1204989095998998710
+    second: AjoloteEnemAnimacionMuerte_10
+  - first:
+      213: -339009442408417122
+    second: AjoloteEnemAnimacionMuerte_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509337ca49bd30610800000000000000
+      internalID: 1586352925359421701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1080
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d58d88785e4a1a0800000000000000
+      internalID: -6799057167143379566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1080
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5d7da0572c21fb0800000000000000
+      internalID: -4678463254935644679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6114e8418f7e416c0800000000000000
+      internalID: -4173455901982834410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 720
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52adbd12419521b70800000000000000
+      internalID: 8868248559248202277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_5
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 720
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f7721f818ac200800000000000000
+      internalID: 201115584861566987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d875fd60b5b0313d0800000000000000
+      internalID: -3237231221564024947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 360
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc7d34116f8ac8d0800000000000000
+      internalID: -2825288169107391282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_8
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 360
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac8068bea116c40800000000000000
+      internalID: 5503709818491816613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215eff7553064b30800000000000000
+      internalID: 4271104962361970977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b2ce2dc4074fe0800000000000000
+      internalID: -1204989095998998710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AjoloteEnemAnimacionMuerte_11
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 580
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983eb155b89b4bf0800000000000000
+      internalID: -339009442408417122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

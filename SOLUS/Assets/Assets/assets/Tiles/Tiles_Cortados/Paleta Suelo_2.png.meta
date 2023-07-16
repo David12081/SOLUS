@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: e8fad2d48af9c614098a22f7d33ed730
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4815688639861478023
+    second: Paleta Suelo_2_0
+  - first:
+      213: 301488723167395435
+    second: Paleta Suelo_2_1
+  - first:
+      213: -3589885387291671982
+    second: Paleta Suelo_2_2
+  - first:
+      213: 7510468840825325185
+    second: Paleta Suelo_2_3
+  - first:
+      213: 2638231654720143569
+    second: Paleta Suelo_2_4
+  - first:
+      213: 5970153381044163719
+    second: Paleta Suelo_2_5
+  - first:
+      213: -3995096622027702133
+    second: Paleta Suelo_2_6
+  - first:
+      213: -1097440754028380373
+    second: Paleta Suelo_2_7
+  - first:
+      213: 4341232615980339122
+    second: Paleta Suelo_2_8
+  - first:
+      213: -8949365556936403776
+    second: Paleta Suelo_2_9
+  - first:
+      213: 7358378043431955094
+    second: Paleta Suelo_2_10
+  - first:
+      213: -2211281269373232219
+    second: Paleta Suelo_2_11
+  - first:
+      213: 3695496847087596295
+    second: Paleta Suelo_2_12
+  - first:
+      213: -4907232927279593298
+    second: Paleta Suelo_2_13
+  - first:
+      213: 182126814721611302
+    second: Paleta Suelo_2_14
+  - first:
+      213: -2423864771422105991
+    second: Paleta Suelo_2_15
+  - first:
+      213: 2361543023681541031
+    second: Paleta Suelo_2_16
+  - first:
+      213: -3836156879048453013
+    second: Paleta Suelo_2_17
+  - first:
+      213: -4250398862493310177
+    second: Paleta Suelo_2_18
+  - first:
+      213: -8963279360502447656
+    second: Paleta Suelo_2_19
+  - first:
+      213: -3192243701387456515
+    second: Paleta Suelo_2_20
+  - first:
+      213: 7287160271996838160
+    second: Paleta Suelo_2_21
+  - first:
+      213: 6961663351224506267
+    second: Paleta Suelo_2_22
+  - first:
+      213: -7224631529181962212
+    second: Paleta Suelo_2_23
+  - first:
+      213: -1769984508419422679
+    second: Paleta Suelo_2_24
+  - first:
+      213: -4339679410984418388
+    second: Paleta Suelo_2_25
+  - first:
+      213: -4041489376720645980
+    second: Paleta Suelo_2_26
+  - first:
+      213: 3120951725975104520
+    second: Paleta Suelo_2_27
+  - first:
+      213: -3218809917873391979
+    second: Paleta Suelo_2_28
+  - first:
+      213: 8771676741534598245
+    second: Paleta Suelo_2_29
+  - first:
+      213: -7801942268291365077
+    second: Paleta Suelo_2_30
+  - first:
+      213: -6257504543601729916
+    second: Paleta Suelo_2_31
+  - first:
+      213: 2226645711438196797
+    second: Paleta Suelo_2_32
+  - first:
+      213: -4167051361999245204
+    second: Paleta Suelo_2_33
+  - first:
+      213: 778691709338702350
+    second: Paleta Suelo_2_34
+  - first:
+      213: -6178569553391630017
+    second: Paleta Suelo_2_35
+  - first:
+      213: -8387135508934599052
+    second: Paleta Suelo_2_36
+  - first:
+      213: 2233272582163444591
+    second: Paleta Suelo_2_37
+  - first:
+      213: -3169702988554134594
+    second: Paleta Suelo_2_38
+  - first:
+      213: 3611555346693141155
+    second: Paleta Suelo_2_39
+  - first:
+      213: 2009566956200080641
+    second: Paleta Suelo_2_40
+  - first:
+      213: 4469684501044607767
+    second: Paleta Suelo_2_41
+  - first:
+      213: -448008360284748055
+    second: Paleta Suelo_2_42
+  - first:
+      213: 6455338168160516300
+    second: Paleta Suelo_2_43
+  - first:
+      213: -8705115469719496682
+    second: Paleta Suelo_2_44
+  - first:
+      213: -2381062522425309553
+    second: Paleta Suelo_2_45
+  - first:
+      213: 8779533499511278710
+    second: Paleta Suelo_2_46
+  - first:
+      213: -6870491766116219903
+    second: Paleta Suelo_2_47
+  - first:
+      213: 3668203490259666102
+    second: Paleta Suelo_2_48
+  - first:
+      213: -5566710900078049012
+    second: Paleta Suelo_2_49
+  - first:
+      213: 722456331300363173
+    second: Paleta Suelo_2_50
+  - first:
+      213: -8463431517775465081
+    second: Paleta Suelo_2_51
+  - first:
+      213: 5869259579827019407
+    second: Paleta Suelo_2_52
+  - first:
+      213: -3111668911488410550
+    second: Paleta Suelo_2_53
+  - first:
+      213: -5671069023622649278
+    second: Paleta Suelo_2_54
+  - first:
+      213: -3324849744200988925
+    second: Paleta Suelo_2_55
+  - first:
+      213: -1502533687658925316
+    second: Paleta Suelo_2_56
+  - first:
+      213: -5576442789518720540
+    second: Paleta Suelo_2_57
+  - first:
+      213: -3729423668669297334
+    second: Paleta Suelo_2_58
+  - first:
+      213: -8108682084701258704
+    second: Paleta Suelo_2_59
+  - first:
+      213: -6109934452310457119
+    second: Paleta Suelo_2_60
+  - first:
+      213: 5222473128727938766
+    second: Paleta Suelo_2_61
+  - first:
+      213: 1907093176731097174
+    second: Paleta Suelo_2_62
+  - first:
+      213: 5891787960029095200
+    second: Paleta Suelo_2_63
+  - first:
+      213: 7731313406860603115
+    second: Paleta Suelo_2_64
+  - first:
+      213: 4365625802134478822
+    second: Paleta Suelo_2_65
+  - first:
+      213: 3154040829501822269
+    second: Paleta Suelo_2_66
+  - first:
+      213: -5870484751256428772
+    second: Paleta Suelo_2_67
+  - first:
+      213: -592380438164467922
+    second: Paleta Suelo_2_68
+  - first:
+      213: 1865821840924409877
+    second: Paleta Suelo_2_69
+  - first:
+      213: 6018210902005668659
+    second: Paleta Suelo_2_70
+  - first:
+      213: -3872256328650466626
+    second: Paleta Suelo_2_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paleta Suelo_2_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d3d7ad43c4d240800000000000000
+      internalID: 4815688639861478023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ebd28756a1f2400800000000000000
+      internalID: 301488723167395435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524d12a24a2e2ec0800000000000000
+      internalID: -3589885387291671982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186880a5e9b8a3860800000000000000
+      internalID: 7510468840825325185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d009c646b1ec9420800000000000000
+      internalID: 2638231654720143569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_5
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841cbb6ede3ad250800000000000000
+      internalID: 5970153381044163719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_6
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800da80ac09e88c0800000000000000
+      internalID: -3995096622027702133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_7
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ff91ed27b15c0f0800000000000000
+      internalID: -1097440754028380373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_8
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2860
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf09da30182f3c30800000000000000
+      internalID: 4341232615980339122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c490b511777dc380800000000000000
+      internalID: -8949365556936403776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aabc918d53e1660800000000000000
+      internalID: 7358378043431955094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9880c663ff41e0800000000000000
+      internalID: -2211281269373232219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7037b378dca094330800000000000000
+      internalID: 3695496847087596295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8466bf6a106ebb0800000000000000
+      internalID: -4907232927279593298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6261e8f7f5b078200800000000000000
+      internalID: 182126814721611302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_15
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4dc325d3bc5ed0800000000000000
+      internalID: -2423864771422105991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_16
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a317583ed2e5c020800000000000000
+      internalID: 2361543023681541031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_17
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6455a1b4ab33cac0800000000000000
+      internalID: -3836156879048453013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2180
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ac5f01cc8305c0800000000000000
+      internalID: -4250398862493310177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_19
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2180
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d149ae39e80c9380800000000000000
+      internalID: -8963279360502447656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_20
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2180
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff825e444fd2b3d0800000000000000
+      internalID: -3192243701387456515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_21
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2180
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e5b988a1312560800000000000000
+      internalID: 7287160271996838160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_22
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2180
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979797feebcc9060800000000000000
+      internalID: 6961663351224506267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_23
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2180
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10a506e6e3fcbb90800000000000000
+      internalID: -7224631529181962212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_24
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2180
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92647b5a770cf67e0800000000000000
+      internalID: -1769984508419422679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_25
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2180
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3823d719c56c3c0800000000000000
+      internalID: -4339679410984418388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a01d0913deb9e7c0800000000000000
+      internalID: -4041489376720645980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c63eb2f09df4b20800000000000000
+      internalID: 3120951725975104520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f6a50f6d7453d0800000000000000
+      internalID: -3218809917873391979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_29
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564c9b7a5814bb970800000000000000
+      internalID: 8771676741534598245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_30
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27436ce7dee9b390800000000000000
+      internalID: -7801942268291365077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_31
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed93275c0e829a0800000000000000
+      internalID: -6257504543601729916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_32
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30bbee2a72a6ee10800000000000000
+      internalID: 2226645711438196797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_33
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c603a3f3dd8ab26c0800000000000000
+      internalID: -4167051361999245204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_34
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02dca4ebf77eca00800000000000000
+      internalID: 778691709338702350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_35
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394c060abf414aa0800000000000000
+      internalID: -6178569553391630017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_36
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e53ea01b8ea9b80800000000000000
+      internalID: -8387135508934599052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_37
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b872c49d2efe10800000000000000
+      internalID: 2233272582163444591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_38
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9cbbfce3f204d0800000000000000
+      internalID: -3169702988554134594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_39
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2be46f372de1230800000000000000
+      internalID: 3611555346693141155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1053ba0ef7a63eb10800000000000000
+      internalID: 2009566956200080641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_41
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b35de4f52870e30800000000000000
+      internalID: 4469684501044607767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_42
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e682dc15ca58c9f0800000000000000
+      internalID: -448008360284748055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_43
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc87a32bcd7f59950800000000000000
+      internalID: 6455338168160516300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_44
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6189c9a1a97313780800000000000000
+      internalID: -8705115469719496682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_45
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8608d25044c4fed0800000000000000
+      internalID: -2381062522425309553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_46
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c030ca33b27d970800000000000000
+      internalID: 8779533499511278710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1048560e32c17a0a0800000000000000
+      internalID: -6870491766116219903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_48
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b486c0b3a318e230800000000000000
+      internalID: 3668203490259666102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_49
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c098d891ee11fb2b0800000000000000
+      internalID: -5566710900078049012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_50
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd3e0a43ea60a00800000000000000
+      internalID: 722456331300363173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_51
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f52230e9db8a80800000000000000
+      internalID: -8463431517775465081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_52
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed52ebd7cc37150800000000000000
+      internalID: 5869259579827019407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_53
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c5b108c9121d4d0800000000000000
+      internalID: -3111668911488410550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_54
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a204605c05c41b0800000000000000
+      internalID: -5671069023622649278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_55
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 820
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070a5106c2cbd1d0800000000000000
+      internalID: -3324849744200988925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf23804629de52be0800000000000000
+      internalID: -1502533687658925316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_57
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c27404de7c92b0800000000000000
+      internalID: -5576442789518720540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_58
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4804ceec6e3cc0800000000000000
+      internalID: -3729423668669297334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_59
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cbec80b9c287f80800000000000000
+      internalID: -8108682084701258704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_60
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44d19ccf6253ba0800000000000000
+      internalID: -6109934452310457119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_61
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec60ad604a3f97840800000000000000
+      internalID: 5222473128727938766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_62
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658d0a8d32b577a10800000000000000
+      internalID: 1907093176731097174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_63
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02525710fe5d3c150800000000000000
+      internalID: 5891787960029095200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_64
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee242fc4942b4b60800000000000000
+      internalID: 7731313406860603115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 140
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef51867981d59c30800000000000000
+      internalID: 4365625802134478822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_66
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 140
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35d8817c6765cb20800000000000000
+      internalID: 3154040829501822269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_67
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 140
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f530ec839d78ea0800000000000000
+      internalID: -5870484751256428772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_68
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 140
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f015b412177c7f0800000000000000
+      internalID: -592380438164467922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_69
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 140
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510077a241bb4e910800000000000000
+      internalID: 1865821840924409877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_70
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 140
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5e65fdeaf48350800000000000000
+      internalID: 6018210902005668659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Suelo_2_71
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 140
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad78b926bf24ac0800000000000000
+      internalID: -3872256328650466626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 91bfb68efbf4d684c9325b5390c6b247
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

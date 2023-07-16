@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - Chest
+  - CreatureShooter
+  - Boss
+  - CreatureMelee
+  - Bullet
+  - Rooms
+  - SpawnPoint
+  - Chest+
+  - Chest++
+  - PlayerBullet
+  - Camera
+  - CreatureMid
+  - CreatureGloves
+  - Enemy2
+  - VoidDebug
+  - BossRoom
+  - Spawn
+  - Boss2
+  - Boss3
+  - Cutscene
+  - Ekey
+  - Boss4
+  - Enemy3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Boss
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

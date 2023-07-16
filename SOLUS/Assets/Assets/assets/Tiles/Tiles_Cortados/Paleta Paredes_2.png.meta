@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: ef8ed91427613824eac44b4eb8e8e36d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2613327983220476167
+    second: Paleta Paredes_2_0
+  - first:
+      213: -7280748965835555130
+    second: Paleta Paredes_2_1
+  - first:
+      213: -2682499189502334915
+    second: Paleta Paredes_2_2
+  - first:
+      213: 1669005973931903018
+    second: Paleta Paredes_2_3
+  - first:
+      213: -6938118232569962468
+    second: Paleta Paredes_2_4
+  - first:
+      213: 2022572495243348035
+    second: Paleta Paredes_2_5
+  - first:
+      213: 2421364133149207397
+    second: Paleta Paredes_2_6
+  - first:
+      213: -9102475719405757038
+    second: Paleta Paredes_2_7
+  - first:
+      213: -5691693950555048462
+    second: Paleta Paredes_2_8
+  - first:
+      213: -2317358352239941919
+    second: Paleta Paredes_2_9
+  - first:
+      213: -3728401669120003362
+    second: Paleta Paredes_2_10
+  - first:
+      213: 1236563816382539848
+    second: Paleta Paredes_2_11
+  - first:
+      213: 3398560854778670297
+    second: Paleta Paredes_2_12
+  - first:
+      213: 8516369584882621429
+    second: Paleta Paredes_2_13
+  - first:
+      213: 1070876167337301359
+    second: Paleta Paredes_2_14
+  - first:
+      213: 9022116537427506281
+    second: Paleta Paredes_2_15
+  - first:
+      213: 5501036136717120681
+    second: Paleta Paredes_2_16
+  - first:
+      213: 4900856886224368462
+    second: Paleta Paredes_2_17
+  - first:
+      213: -8233698373702089990
+    second: Paleta Paredes_2_18
+  - first:
+      213: -2445151245685222630
+    second: Paleta Paredes_2_19
+  - first:
+      213: -8583622617824557564
+    second: Paleta Paredes_2_20
+  - first:
+      213: 5622610705192243463
+    second: Paleta Paredes_2_21
+  - first:
+      213: 5248730372183265860
+    second: Paleta Paredes_2_22
+  - first:
+      213: 5323429207542320466
+    second: Paleta Paredes_2_23
+  - first:
+      213: 8597336976670155122
+    second: Paleta Paredes_2_24
+  - first:
+      213: 7912363443848982215
+    second: Paleta Paredes_2_25
+  - first:
+      213: 1212011994961280809
+    second: Paleta Paredes_2_26
+  - first:
+      213: -6169569035234864
+    second: Paleta Paredes_2_27
+  - first:
+      213: -9015327329211587273
+    second: Paleta Paredes_2_28
+  - first:
+      213: 6773174479095510481
+    second: Paleta Paredes_2_29
+  - first:
+      213: 8219686818233496932
+    second: Paleta Paredes_2_30
+  - first:
+      213: 6457174137145784067
+    second: Paleta Paredes_2_31
+  - first:
+      213: -2182417086693997639
+    second: Paleta Paredes_2_32
+  - first:
+      213: 5114821466644279011
+    second: Paleta Paredes_2_33
+  - first:
+      213: -1786967753402928531
+    second: Paleta Paredes_2_34
+  - first:
+      213: 8774437789644532517
+    second: Paleta Paredes_2_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paleta Paredes_2_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c17964f7644420800000000000000
+      internalID: 2613327983220476167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce3490046595fa90800000000000000
+      internalID: -7280748965835555130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a07b1339d5cad0800000000000000
+      internalID: -2682499189502334915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28473c2710892710800000000000000
+      internalID: 1669005973931903018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10a10a2a3ad6bf90800000000000000
+      internalID: -6938118232569962468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488477e7fe911c10800000000000000
+      internalID: 2022572495243348035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bea34a9d96a9120800000000000000
+      internalID: 2421364133149207397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_7
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d93386f828da180800000000000000
+      internalID: -9102475719405757038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_8
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53de2028a0301b0800000000000000
+      internalID: -5691693950555048462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_9
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e624754bd617dfd0800000000000000
+      internalID: -2317358352239941919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2f0249f6e024cc0800000000000000
+      internalID: -3728401669120003362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84825994d38292110800000000000000
+      internalID: 1236563816382539848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc61a0571d1a2f20800000000000000
+      internalID: 3398560854778670297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_13
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9eda0409303670800000000000000
+      internalID: 8516369584882621429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65529053348cde00800000000000000
+      internalID: 1070876167337301359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_15
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643b87803ff43d70800000000000000
+      internalID: 9022116537427506281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_16
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47c99783b975c40800000000000000
+      internalID: 5501036136717120681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_17
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e433e664f57530440800000000000000
+      internalID: 4900856886224368462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af286cff3f60cbd80800000000000000
+      internalID: -8233698373702089990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_19
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1314d2a5e3111ed0800000000000000
+      internalID: -2445151245685222630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_20
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4060f8205b8d0e880800000000000000
+      internalID: -8583622617824557564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_21
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701da4185a6870e40800000000000000
+      internalID: 5622610705192243463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_22
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44299cbe67c37d840800000000000000
+      internalID: 5248730372183265860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_23
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dcf76d8ae90e940800000000000000
+      internalID: 5323429207542320466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_24
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27161ccfd60ef4770800000000000000
+      internalID: 8597336976670155122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_25
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cea76471ac5ecd60800000000000000
+      internalID: 7912363443848982215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ffd27ec7ee1d010800000000000000
+      internalID: 1212011994961280809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1dc354fc41aeff0800000000000000
+      internalID: -6169569035234864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e8703f8f13e280800000000000000
+      internalID: -9015327329211587273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_29
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ba3c8d462ffd50800000000000000
+      internalID: 6773174479095510481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_30
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b4c58c91321270800000000000000
+      internalID: 8219686818233496932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_31
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f9698aad7c9950800000000000000
+      internalID: 6457174137145784067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b38cdbf83f76b1e0800000000000000
+      internalID: -2182417086693997639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_33
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeefd0460f7bf640800000000000000
+      internalID: 5114821466644279011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_34
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d623759cb4a6337e0800000000000000
+      internalID: -1786967753402928531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta Paredes_2_35
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba6834ea015c970800000000000000
+      internalID: 8774437789644532517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e4bea5a8229acd645b2a436a127c90f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

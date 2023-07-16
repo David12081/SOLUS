@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 233adc8bc3681bf4ab5bf0d75303183c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5229039683338733036
+    second: Circe_Run2_0
+  - first:
+      213: -5354027085685131759
+    second: Circe_Run2_1
+  - first:
+      213: -923724014950816108
+    second: Circe_Run2_2
+  - first:
+      213: 3894226374678745381
+    second: Circe_Run2_3
+  - first:
+      213: 7628325379754633245
+    second: Circe_Run2_4
+  - first:
+      213: -68306598651128907
+    second: Circe_Run2_5
+  - first:
+      213: -8349376272925243351
+    second: Circe_Run2_6
+  - first:
+      213: -8259877406300534956
+    second: Circe_Run2_7
+  - first:
+      213: -7925460101939388395
+    second: Circe_Run2_8
+  - first:
+      213: -3842789350941109474
+    second: Circe_Run2_9
+  - first:
+      213: 1463162754711634301
+    second: Circe_Run2_10
+  - first:
+      213: -759200887749670444
+    second: Circe_Run2_11
+  - first:
+      213: 2708468155047023688
+    second: Circe_Run2_12
+  - first:
+      213: -1545156429564508060
+    second: Circe_Run2_13
+  - first:
+      213: 477270285052751178
+    second: Circe_Run2_14
+  - first:
+      213: 6503422464434321433
+    second: Circe_Run2_15
+  - first:
+      213: 6654146074375121389
+    second: Circe_Run2_16
+  - first:
+      213: 600585604438481655
+    second: Circe_Run2_17
+  - first:
+      213: 6628274660531970899
+    second: Circe_Run2_18
+  - first:
+      213: 1293857622532844530
+    second: Circe_Run2_19
+  - first:
+      213: 9061361269455045211
+    second: Circe_Run2_20
+  - first:
+      213: 7664489573129563280
+    second: Circe_Run2_21
+  - first:
+      213: 2408784827033150940
+    second: Circe_Run2_22
+  - first:
+      213: 1561174623816859898
+    second: Circe_Run2_23
+  - first:
+      213: 2192012058634480930
+    second: Circe_Run2_24
+  - first:
+      213: 5464738812749663257
+    second: Circe_Run2_25
+  - first:
+      213: 2321508953365257139
+    second: Circe_Run2_26
+  - first:
+      213: 5305441837841686789
+    second: Circe_Run2_27
+  - first:
+      213: -8028338872383006307
+    second: Circe_Run2_28
+  - first:
+      213: -610130731899133642
+    second: Circe_Run2_29
+  - first:
+      213: -619130479905511616
+    second: Circe_Run2_30
+  - first:
+      213: -5794470513849035201
+    second: Circe_Run2_31
+  - first:
+      213: -2252281051685004328
+    second: Circe_Run2_32
+  - first:
+      213: 4843111161004436149
+    second: Circe_Run2_33
+  - first:
+      213: 7121494137542729385
+    second: Circe_Run2_34
+  - first:
+      213: 498327523346543390
+    second: Circe_Run2_35
+  - first:
+      213: 8947228580113216291
+    second: Circe_Run2_36
+  - first:
+      213: 8614625115737126584
+    second: Circe_Run2_37
+  - first:
+      213: -8703447850115159004
+    second: Circe_Run2_38
+  - first:
+      213: -4067342075420242227
+    second: Circe_Run2_39
+  - first:
+      213: 4947175151396420454
+    second: Circe_Run2_40
+  - first:
+      213: -4860005245908750603
+    second: Circe_Run2_41
+  - first:
+      213: 5874122257643557191
+    second: Circe_Run2_42
+  - first:
+      213: -7256922914444227420
+    second: Circe_Run2_43
+  - first:
+      213: -3179252539561323740
+    second: Circe_Run2_44
+  - first:
+      213: 1490131820304589111
+    second: Circe_Run2_45
+  - first:
+      213: -3667195500321124939
+    second: Circe_Run2_46
+  - first:
+      213: 7676585218811516927
+    second: Circe_Run2_47
+  - first:
+      213: -6529081207232802937
+    second: Circe_Run2_48
+  - first:
+      213: -1648086157064770606
+    second: Circe_Run2_49
+  - first:
+      213: -8380755936845945693
+    second: Circe_Run2_50
+  - first:
+      213: 4305958464391975303
+    second: Circe_Run2_51
+  - first:
+      213: -5971288262638389602
+    second: Circe_Run2_52
+  - first:
+      213: -6311326500141239362
+    second: Circe_Run2_53
+  - first:
+      213: 1739409152185450480
+    second: Circe_Run2_54
+  - first:
+      213: 1500100935353724438
+    second: Circe_Run2_55
+  - first:
+      213: 8553438996569048454
+    second: Circe_Run2_56
+  - first:
+      213: -9017843004545830799
+    second: Circe_Run2_57
+  - first:
+      213: 7272002910397175141
+    second: Circe_Run2_58
+  - first:
+      213: -8466447682705406347
+    second: Circe_Run2_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Circe_Run2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce583d923e7419840800000000000000
+      internalID: 5229039683338733036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116faef7bbca2b5b0800000000000000
+      internalID: -5354027085685131759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496eb5a07e54e23f0800000000000000
+      internalID: -923724014950816108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5211fa951421b0630800000000000000
+      internalID: 3894226374678745381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d182f5b24814dd960800000000000000
+      internalID: 7628325379754633245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_5
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2400
+        width: 379
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3959ba2835d0ff0800000000000000
+      internalID: -68306598651128907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_6
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9284734448e012c80800000000000000
+      internalID: -8349376272925243351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_7
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578e2df2450f5d80800000000000000
+      internalID: -8259877406300534956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_8
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5102f56370c130290800000000000000
+      internalID: -7925460101939388395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_9
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2400
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13508ef17babaac0800000000000000
+      internalID: -3842789350941109474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d714b23f5c23e4410800000000000000
+      internalID: 1463162754711634301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d90584a0d6c675f0800000000000000
+      internalID: -759200887749670444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844190bdf69669520800000000000000
+      internalID: 2708468155047023688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_13
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688565f9608e8ae0800000000000000
+      internalID: -1545156429564508060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d2b6aabca9f9600800000000000000
+      internalID: 477270285052751178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_15
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91837e8564cc04a50800000000000000
+      internalID: 6503422464434321433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_16
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de960b67996485c50800000000000000
+      internalID: 6654146074375121389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_17
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad4c9dc65b55800800000000000000
+      internalID: 600585604438481655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_18
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3532bb68fac5cfb50800000000000000
+      internalID: 6628274660531970899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_19
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1920
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb600d07a4b4f110800000000000000
+      internalID: 1293857622532844530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c95fb01c60cd70800000000000000
+      internalID: 9061361269455045211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca21798acbd5a60800000000000000
+      internalID: 7664489573129563280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd569a3b909bd6120800000000000000
+      internalID: 2408784827033150940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_23
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af045f48c086aa510800000000000000
+      internalID: 1561174623816859898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_24
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de7428a579b6e10800000000000000
+      internalID: 2192012058634480930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_25
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ccb3c2ff6a6db40800000000000000
+      internalID: 5464738812749663257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_26
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb993cd718a73020800000000000000
+      internalID: 2321508953365257139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_27
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ac09fd37b0a940800000000000000
+      internalID: 5305441837841686789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_28
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99962fd45c959090800000000000000
+      internalID: -8028338872383006307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_29
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1440
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6316a9af4516887f0800000000000000
+      internalID: -610130731899133642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0476d9bdb186867f0800000000000000
+      internalID: -619130479905511616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f369d80a4c7e59fa0800000000000000
+      internalID: -5794470513849035201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_32
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbd8fb015a4eb0e0800000000000000
+      internalID: -2252281051685004328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_33
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba2667e0ff263340800000000000000
+      internalID: 4843111161004436149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_34
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed242df21a4d260800000000000000
+      internalID: 7121494137542729385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_35
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13fed20e3a6ae600800000000000000
+      internalID: 498327523346543390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_36
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323fed93df0fa2c70800000000000000
+      internalID: 8947228580113216291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_37
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b67ba886eb4d8770800000000000000
+      internalID: 8614625115737126584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_38
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cafbc0b44273780800000000000000
+      internalID: -8703447850115159004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_39
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 960
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce839e9ee5ed87c0800000000000000
+      internalID: -4067342075420242227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b7f94c695e7a440800000000000000
+      internalID: 4947175151396420454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_41
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fee21f6afacd8cb0800000000000000
+      internalID: -4860005245908750603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_42
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7415f062213158150800000000000000
+      internalID: 5874122257643557191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_43
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc822ee0b3a4b90800000000000000
+      internalID: -7256922914444227420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_44
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235030e8a601e3d0800000000000000
+      internalID: -3179252539561323740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_45
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e2c9def20ea410800000000000000
+      internalID: 1490131820304589111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_46
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc2714f118b1dc0800000000000000
+      internalID: -3667195500321124939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_47
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7564f8595b88a60800000000000000
+      internalID: 7676585218811516927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_48
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc53d0c3b0465a0800000000000000
+      internalID: -6529081207232802937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_49
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 480
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6ae04f52d029e0800000000000000
+      internalID: -1648086157064770606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a42d0be0e291bb80800000000000000
+      internalID: -8380755936845945693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819bafc866d1cb30800000000000000
+      internalID: 4305958464391975303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_52
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96bafd56f8b12da0800000000000000
+      internalID: -5971288262638389602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_53
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb37299acf9a968a0800000000000000
+      internalID: -6311326500141239362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_54
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb31b786f932810800000000000000
+      internalID: 1739409152185450480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_55
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6df25add61d410800000000000000
+      internalID: 1500100935353724438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_56
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c876037be3b670800000000000000
+      internalID: 8553438996569048454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_57
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170fdc1e09f2ad280800000000000000
+      internalID: -9017843004545830799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_58
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56594d74e185be460800000000000000
+      internalID: 7272002910397175141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circe_Run2_59
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0
+        width: 420
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5764ae290b2218a80800000000000000
+      internalID: -8466447682705406347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4255a7da6dcfc544496485bb1a893623
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
